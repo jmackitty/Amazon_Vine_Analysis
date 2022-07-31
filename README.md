@@ -6,7 +6,7 @@ A client requested analytics on their product reviews verses their competitor's 
 ## Summary:
 
 * There are a total of 497 paid reviews in the data set used.
-* There were 220 5-star Vine reviews. There were  How many non-Vine reviews were 5 stars? 
+* There were 220 5-star Vine reviews. 
 * There were 74470 non-Vine 5-star reviews.
 * 44.26% of Vine reviews were 5-stars
 * 61.61% of non-Vine reviews are 5 stars.
